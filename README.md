@@ -19,12 +19,6 @@ Custom Styling: Features a custom aesthetic with a unique background, themed but
 
 Responsive Design: Optimized for a smooth experience across various devices (desktop, tablet, mobile).
 
-Live Demo
-Experience the FusionLearnX Grammar Corrector live:
-[Your Deployed App URL Here]
-
-(Remember to replace https://your-app-name.streamlit.app/ with the actual URL after deploying your app to Streamlit Community Cloud.)
-
 Technologies Used
 Streamlit: For building the interactive web application.
 
@@ -100,7 +94,7 @@ Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request on the GitHub repository.
 
 License
-This project is open-source and available under the MIT License. (You might need to create a LICENSE file in your repo if you want to explicitly define this.)
+This project is open-source.
 
 Contact
-For questions or feedback, please contact [Your Name/Email/LinkedIn/Website].
+For questions or feedback, please contact Dr. Gokhan Demirdoken by email (gokhan.demirdoken@gmail.com).
